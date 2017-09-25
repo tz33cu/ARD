@@ -17,3 +17,6 @@ Statistical research on aggregated relational data.
 
 8. McCormick, T. H. and T. Zheng (2015). "Latent surface models for networks using Aggregated Relational Data." Journal of the American Statistical Association 110(512): 1684-1695.
 
+## Related Research
+
+Network scale-up
