@@ -19,4 +19,4 @@ Statistical research on aggregated relational data.
 
 ## Related Research
 
-Network scale-up
+[Network scale-up](http://nersp.nerdc.ufl.edu/~ufruss/scale-up.htm)
